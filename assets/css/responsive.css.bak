@@ -548,20 +548,20 @@
         padding: 5px 0px;
     }
     body header #sticky-nav {
-        background: #3aafa9;
+        background: #0096c7;
     }
     .theme_one #sticky-nav {
-        background: #3aafa9;
+        background: #0096c7;
     }
     .theme_two #sticky-nav {
         background: #504be5;
     }
     .theme_three #sticky-nav {
-        background: #3aafa9;
+        background: #0096c7;
     }
     /* 
 .theme_three #sticky-nav.mobile-menu {
-    background: #3aafa9 ; /* rgb(0, 215, 126); */
+    background: #0096c7 ; /* rgb(0, 215, 126); */
 }
 
 */ .hero-shape {
