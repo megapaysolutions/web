@@ -6,7 +6,7 @@ $(function() {
     var formMessages = $(".form-message");
 
     // Set up an event listener for the contact form.
-    $(form).submit(function(e) {
+    $('#contact-form-google').submit(function(e) {
         // Stop the browser from submitting the form.
         e.preventDefault();
 
